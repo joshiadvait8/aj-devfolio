@@ -3,11 +3,17 @@
 h1 {
   font-weight: 700;
 }
-
+p{
+  
+}
 p,
 a {
   font-family: 'Montserrat', sans-serif;
   font-size: $default-font-size;
+}
+.google{
+  color:inherit;
+  text-decoration:underline!important;
 }
 
 a,

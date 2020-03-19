@@ -17,6 +17,16 @@ const Contact = () => {
             <p className="contact-wrapper__text">
               {cta || 'Would you like to work with me? Awesome!'}
             </p>
+            <p className="contact-wrapper__text">
+              Find me on Google{' '}
+              <a
+                className="google"
+                target="_blank"
+                href="https://www.google.com/search?q=joshiadvait8"
+              >
+                @joshiadvait8
+              </a>
+            </p>
             <a
               target="_blank"
               rel="noopener noreferrer"

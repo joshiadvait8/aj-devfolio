@@ -49,14 +49,16 @@
 
       &-text {
         text-align: left;
-
+        font-size: 2.0rem;
+       font-weight:bold;
         @include respond(tab-port) {
-          font-size: 1.5rem;
+          font-size: 2.5rem;
           text-align: center;
+          
         }
         @include respond(phone) {
           font-size: 1.6rem;
-          text-align: center;
+          text-align: justify;
         }
 
         &--important {
@@ -66,6 +68,7 @@
           padding: 0 0.3rem;
           margin: 0.3rem 0;
           line-height: 1.6;
+          
 
           @include respond(phone) {
             display: inline;
