@@ -24,7 +24,7 @@ export const aboutData = {
     'I have good knowledge of backend technologies like Java, Python, flask for REST APIs and JavaScript that is used to solve the business problem also with that frontend knowledge of HTML CSS and React native for developing good UI/UX for the users in web and mobile apps for both iOS and Android.',
   paragraphThree: '',
   resume:
-    'https://uploads.codesandbox.io/uploads/user/3ecae8ee-0760-4738-930e-fbfb05fc34ec/MzyT-Advait_Joshi_Resume.pdf',
+    'Advait_Joshi_Resume.pdf',
 };
 
 // PROJECTS DATA
